@@ -1,0 +1,118 @@
+      #h1,#p {
+          margin-top: 0;
+          text-align: center;
+          color:blue
+
+      }
+       
+       .h2{
+        text-shadow: 1px 1px #fff;
+         color:blue
+
+       }
+
+
+
+      p{
+        margin-top: 0;
+          text-align: center;
+      }
+     
+
+      .ul {
+
+          margin: 0;
+          padding: 0;
+          list-style: none;
+      }
+      body{
+       width: 60%;
+       margin: 0 auto; 
+      }
+
+      #form {
+          margin: 0 auto;
+          width: 66%;
+          padding: 1em;
+          border: 1px solid #fff;
+          border-radius: 1em;
+          background-color: skyblue;
+          
+      }
+
+     
+
+      label span {
+          display: inline-block;
+          width: 120px;
+          text-align: right;
+           font-size:20px;
+      }
+
+      input, textarea {
+          font: 1em sans-serif;
+          width: 250px;
+          box-sizing: border-box;
+          border: 1px solid blue;
+           font-size:20px;
+      }
+
+      input[type=checkbox], input[type=radio] {
+          width: auto;
+          border: none;
+      }
+
+      
+
+      #fieldset {
+          width: 250px;
+          box-sizing: border-box;
+          margin: 0px 0px 15px 144.5px;
+          
+          border: 1px solid blue;
+
+          
+          
+      }
+      legend{
+        text-shadow: 1px 1px #fff;
+        color: black;
+         font-size:25px;
+        
+      }
+
+      #button {
+        
+          margin: 20px 0 0 124px;
+          background-color: skyblue;
+        font-size:20px;
+           color: blue;
+
+      }
+
+      label {
+        position: relative;
+      }
+
+      label em {
+        position: absolute;
+        right: 5px;
+        top: 20px;
+      }
+      #c{
+        margin-right: 115px;
+
+
+      }
+     #section{
+      border: 1px solid skyblue;
+      width: 75%;
+      background-color:skyblue;
+      
+      margin: 0 auto;
+     }
+
+  
+     
+
+     
